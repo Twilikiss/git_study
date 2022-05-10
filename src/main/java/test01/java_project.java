@@ -8,6 +8,6 @@ public class java_project {
         System.out.println("hello Git4!");
         System.out.println("hello Git5!");
         System.out.println("hello Git6!");
-
+        System.out.println("hot-fixed!");
     }
 }
