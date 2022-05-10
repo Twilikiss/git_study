@@ -13,5 +13,6 @@ public class java_project {
         System.out.println("hello Git6!");
         System.out.println("hot-fixed!");
         System.out.println("hello github!");
+        System.out.println("changing by github!");
     }
 }
