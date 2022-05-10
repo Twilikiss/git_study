@@ -7,10 +7,10 @@ public class java_project {
     public static void main(String[] args) {
         System.out.println("hello Git1!");
         System.out.println("hello Git2!");
-        System.out.println("hello Git3! 我也觉得这个好！");
+        System.out.println("hello Git3!大家都觉得好！");
         System.out.println("hello Git4!");
         System.out.println("hello Git5!");
-        System.out.println("hello Git6! ");
+        System.out.println("hello Git6!");
         System.out.println("hot-fixed!");
     }
 }
